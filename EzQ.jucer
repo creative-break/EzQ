@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="smY14L" name="EzQ" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              cppLanguageStandard="17">
   <MAINGROUP id="SbZmMz" name="EzQ">
     <GROUP id="{DE19E23E-6AE2-685F-A036-44AE2FBC8CE8}" name="Source">
       <FILE id="VjWkBz" name="PluginProcessor.cpp" compile="1" resource="0"
